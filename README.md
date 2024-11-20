@@ -1,7 +1,8 @@
 # Ray Tracing Project
 
 ## Project Overview
-This project involves the implementation of a ray tracing engine designed to render realistic 3D scenes by simulating the behavior of light. The engine supports features like calculating surface normals, rendering diffuse surfaces, and applying texture patterns such as checkered materials. It also optimizes rendering times through the use of bounding volume hierarchies (BVH).
+This project involves the implementation of a ray tracing engine designed to render realistic 3D scenes by simulating the behavior of light. The engine supports features like calculating surface normals, rendering diffuse surfaces, and applying texture patterns such as checkered materials. It also optimizes rendering times through the use of bounding volume hierarchies (BVH).  
+You can check out the [**AR_VR Assignment 1 Report.pdf**](./AR_VR%20Assignment%201%20Report.pdf) or the [**images** folder](./images/) to view detailed results and rendered outputs.
 
 ## Features Implemented
 - **Diffuse Rendering**: Simulated realistic light interactions with diffuse surfaces.
